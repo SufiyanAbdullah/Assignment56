@@ -1,0 +1,4 @@
+/* table,th,td{background-color: aquamarine;} */
+table,th,td{border: 1px solid black;}
+table,th,td{border-collapse: collapse;}
+td{text-align: center;}

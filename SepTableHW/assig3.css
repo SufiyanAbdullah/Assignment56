@@ -1,0 +1,4 @@
+table{border-style: ridge;}
+th,td{border: 1px solid black;border-collapse: collapse;}
+tr:nth-child(even){background-color: gray;}
+tr:nth-child(odd){background-color: gainsboro;}
